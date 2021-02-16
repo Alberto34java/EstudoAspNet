@@ -1,0 +1,7 @@
+Projeto será construido pensando na estrutura de um sistema 
+de Universidade 
+onde o aluno deverá ser matriculado a um curso .
+O Curso poderá ser Tecnologo,Graduação,Pós-Graduação,Bacharelado,
+etc.
+No curso terá suas disciplinas de acordo com semestre .
+Inicialmente terá um único nível de acesso. 
