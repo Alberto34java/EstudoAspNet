@@ -20,7 +20,7 @@ namespace Aplicacao_01.Models
           [StringLength(10,MinimumLength=6, ErrorMessage="Preencha a Duracao")]
         public string Duracao { get; set; }
 
-        public int TipoFormacao { get; set; }
+        public int FormacaoId { get; set; }
 
         public Formacao Formacao{ get; set;}
         

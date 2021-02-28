@@ -46,6 +46,7 @@ namespace Aplicacao_01.Controllers
         // GET: Curso/Create
         public IActionResult Create()
         {
+            ViewData["TipoFormacao"]
             return View();
         }
 
