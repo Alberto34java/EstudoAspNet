@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj": {}
+    "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj": {
+    "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
+        "projectUniqueName": "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
         "projectName": "Aplicacao_01",
-        "projectPath": "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
+        "projectPath": "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
         "packagesPath": "C:\\Users\\albertolacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\obj\\",
+        "outputPath": "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albertolacerda\\AppData\\Roaming\\NuGet\\NuGet.Config",

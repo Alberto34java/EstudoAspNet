@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0e0R2CIy8V2czmFJh88xRUDl5TVu8VinyiekXPVh/nnHu66/NDl1xSOLkiTQ9kaZFgtfU+HpiyVJaybxl1jCQQ==",
+  "dgSpecHash": "nY17X+Zvg6wFUXR6sYSutqIYLWJVusWoejq4oG5hl77k44pd35jP4UpFy+TNLo6rtT85bKsv2uw+YWnZ+JPv7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
+  "projectFilePath": "c:\\Users\\albertolacerda\\Documents\\Estudos_ComGitHub\\aspNet_01\\EstudoAspNet\\Aplicacao_01\\Aplicacao_01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\albertolacerda\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
