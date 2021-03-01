@@ -159,8 +159,3 @@ C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplic
 C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Formacao\Details.cshtml.g.cs
 C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Formacao\Edit.cshtml.g.cs
 C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Formacao\Index.cshtml.g.cs
-C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Curso\Create.cshtml.g.cs
-C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Curso\Delete.cshtml.g.cs
-C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Curso\Details.cshtml.g.cs
-C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Curso\Edit.cshtml.g.cs
-C:\Users\albertolacerda\Documents\Estudos_ComGitHub\aspNet_01\EstudoAspNet\Aplicacao_01\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
